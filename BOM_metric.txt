@@ -1,21 +1,20 @@
-*** HARDWARE **********************************************
+*** HARDWARE ***************************************************************************************
 
-Qty   Name                              Dimensions
-----  --------------------------------  -------------------
-3     Countersunk Screw                 M3 x 30mm
-18    Countersunk Screw                 M3 x 18mm
-12    Countersunk Screw (Trox)          M2 x 8mm
-12    Countersunk Screw (Trox)          M2 x 8mm
-12    Countersunk Screw (Trox)          M2.5 x 6mm
-6     O-Ring (Silicone / Viton)         ID=6mm, CS=1mm
-3     Washer                            M3
-1m    Piano wire / Spring steel rod     D=0.5mm
-1     CA-Glue / Superglue               1g
+Qty   Name                              Dimensions            Usage
+----  --------------------------------  -------------------  ---------------------------------------
+3     Countersunk Screw                 M3 x 30mm            Handwheel 
+18    Cylinderhead Screw                M3 x 18mm            Mounting linear flexure on base
+12    Countersunk Screw (Trox)          M2 x 8mm             Mounting wire flexure units
+12    Countersunk Screw (Trox)          M2.5 x 6mm           Oring attachment in linear flexures
+6     O-Ring (Silicone / Viton / PU)    ID=6mm, CS=1mm       Linear flexure preload
+3     Washer                            M3                   Handwheel
+1m    Piano wire / Spring steel rod     D=0.5mm              Wire Flexures
+1     CA-Glue / Superglue               1g                   Wire attachment
 
-*** 3D-PRINTED PARTS **************************************
+*** 3D-PRINTED PARTS *******************************************************************************
 
 Qty   Name                              
----   -----------------------------------------------------
+---   ----------------------------------------------------------------------------------------------
 6     WireMount
 6     FlexureStiffener
 3     FlexureStage
