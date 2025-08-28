@@ -1,5 +1,4 @@
 # 3D-Printed Flexure Micro-Manipulator
-
 This project contains an open source low-cost, easy-to-build **XYZ Micro-Manipulator** platform. 
 
 It's designed for applications such as optical alignment, probing electronic components, and microscopy.
